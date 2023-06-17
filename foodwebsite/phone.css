@@ -1,0 +1,27 @@
+#navbar{
+
+    flex-direction: column;
+}
+
+
+#home{
+
+}
+
+#services{
+
+}
+
+#Joinus{
+
+}
+
+#contactus{
+display: flex;
+flex-direction: column;
+}
+
+body{
+    background-color: red;
+}
+
