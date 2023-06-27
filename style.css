@@ -1,0 +1,172 @@
+. {
+    margin:0;
+    padding:0
+}
+
+
+
+.brand img{
+    height:140px;
+    width:150px;
+    padding: 100 px 40px 40px 70px;
+    margin-left: 60px;
+    margin-bottom: 40px;
+    margin-top: -15px;
+}
+nav{
+    position: sticky;
+    top:0;
+}
+nav ul{
+    text-decoration: none;
+    font-size: 60px;
+    text-align: center;
+    flex-direction: center;
+    display: flex;
+    padding: 100px 70px 50px 30px;
+    list-style-type: none;
+    height: 4px;
+background-color: black;
+text-decoration-color: aliceblue;
+font-style: initial;
+color: aliceblue;
+align-items: center;
+position: sticky;
+margin-top: -12px;
+}
+
+nav li{
+    text-align: center;
+padding: 55px 55px;
+margin-bottom: 35px;
+margin-left: 35px;
+}
+body{
+    background-color: bisque;
+}
+
+.container {
+height: 105vh;
+background-color: black;
+color: aliceblue;
+font-family: cursive;
+display: flex;
+margin:23px auto;
+margin-top: 2.5%;
+width:90%;
+border-radius: 20px;
+padding:14px;
+background-image: url("bg.png");
+background-repeat: no-repeat;
+background-position: right;
+}
+
+.bottom{
+display: flex;
+align-items: center;
+justify-content: center;
+bottom:0;
+height:150px;
+margin-bottom: 0.4%;
+margin-top: 1000px;
+margin-left: -70%;
+margin-right: -140%;
+position:sticky;
+background-color: black;
+border-radius: 50px;
+
+}
+
+#myProgressBar {
+
+height:150px;
+top:0;
+align-items: center;
+justify-content: center;
+display: flex;
+color: crimson;
+margin-bottom: 0px;
+position: relative;
+width:80%;
+cursor: pointer;
+}
+
+
+.songs {
+height:120px;
+}
+
+ .songs li {
+    text-align: left;
+    text-decoration: none;
+    align-items: center;
+    display: flex;
+    position: left;
+    padding: 61px 40px 30px 50px;
+   bottom:0; 
+   font-family: monospace;
+   font-size: 30px;
+   margin-left: 1.5px;
+   margin-top: 6%;
+   transform: translate(-20%);
+   color: burlywood;
+   cursor: pointer;
+}
+
+#song1{
+border-color: blanchedalmond;
+border-radius: 20%;
+ border-style: groove;
+ box-sizing: border-box;
+ border-width:10px;
+ border-block-width: 20%;
+ margin-top: 10%;
+}
+#song2{
+    border-color: blanchedalmond;
+    border-radius: 20%;
+     border-style: groove;
+     box-sizing: border-box;
+     border-width:10px;
+    
+    }
+    #song3{
+        border-color: blanchedalmond;
+        border-radius: 20%;
+         border-style: groove;
+         box-sizing: border-box;
+         border-width:10px;
+        
+        }
+        #song4{
+            border-color: blanchedalmond;
+            border-radius: 20%;
+             border-style: groove;
+             box-sizing: border-box;
+             border-width:10px;
+            
+            }
+            #song5{
+                border-color: blanchedalmond;
+                border-radius: 20%;
+                 border-style: groove;
+                 box-sizing: border-box;
+                 border-width:10px;
+                
+                }
+                #song6{
+                    border-color: blanchedalmond;
+                    border-radius: 20%;
+                     border-style: groove;
+                     box-sizing: border-box;
+                     border-width:10px;
+                    
+                    }
+                    #song7{
+                        border-color: blanchedalmond;
+                        border-radius: 20%;
+                         border-style: groove;
+                         box-sizing: border-box;
+                         border-width:10px;
+                        
+                        }
